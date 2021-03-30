@@ -1,0 +1,50 @@
+nav {
+    background-color: rgba(96, 96, 96,0.6);
+    
+}
+
+
+nav li {
+    display: inline-block;
+    font-size: 50px;
+    padding: 30px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    
+}
+nav a{
+    color: white;
+}
+nav ul {
+    margin-left: 1000px; 
+}
+
+#aloneTitle{
+    margin-right: 190px;
+}
+
+body form{
+    background-color: rgba(96, 96, 96,0.6);
+    margin: 150px;
+    width: 30%;
+    font-size: 40px;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+}
+
+body form input{
+    margin-left: 100px ;
+    margin-top: 80px;
+    
+}
+#content{
+    padding: 150px;
+}
+body form select{
+    margin: 60px;
+
+}
+
+
+
+
